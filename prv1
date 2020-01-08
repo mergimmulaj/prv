@@ -1,0 +1,517 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/KaJfIRe-HvEg8RDWJjgFEQruYk6suNd9uEzfRHLpkFL1VL94HazPcMRHMwF5oYiM-A" group-title="SHQIPTARE",ARTMOTION INFO
+http://84.22.33.254/unicast.infochannel/index.m3u8
+#EXTINF:-1 tvg-id="Rtk 1" tvg-name="Rtk 1" tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png" group-title="SHQIPTARE",RTK 1 HD
+http://84.22.33.254/unicast.rtk1hd/mpegts
+#EXTINF:-1 tvg-id="Rtk 2" tvg-name="Rtk 2" tvg-logo="http://www.albepg.com/tvlogi/RTK%202.png" group-title="SHQIPTARE",RTK 2 HD
+http://84.22.33.254/unicast.rtk2/index.m3u8
+#EXTINF:-1 tvg-id="7news" tvg-name="7news" tvg-logo="http://www.albepg.com/tvlogi/RTK%203.png" group-title="SHQIPTARE",RTK 3 HD
+http://84.22.33.254/unicast.rtk3/mpegts
+#EXTINF:-1 tvg-id="RTK1" tvg-name="RTK 4 UHD" tvg-logo="http://www.albepg.com/tvlogi/RTK%204.png" group-title="SHQIPTARE",RTK 4 HD
+http://84.22.33.254/unicast.rtk4/mpegts
+#EXTINF:-1 tvg-id="Klan Kosova" tvg-name="Klan Kosova"  tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png" group-title="SHQIPTARE",KLAN KOSOVA HD
+http://84.22.33.254/unicast.klankshd/mpegts
+#EXTINF:-1 tvg-id="RTV21" tvg-name="RTV 21 HD"    tvg-logo="http://www.albepg.com/tvlogi/RTV%2021%20HD.png" group-title="SHQIPTARE",RTV 21 HD
+http://185.186.81.50:8003/play/a01c
+#EXTINF:-1 tvg-id="KTV" tvg-name="KTV" tvg-logo="http://www.albepg.com/tvlogi/Koha%20Vision%20HD.png" group-title="SHQIPTARE",KTV KOHAVISION HD
+http://185.186.81.50:8003/play/a01t
+#EXTINF:-1 tvg-id="Alsat-M" tvg-name="Alsat M" tvg-logo="http://www.albepg.com/tvlogi/Alsat-M.png" group-title="SHQIPTARE",ALSAT SERIALET ->18.10 DHE 20.10
+http://185.186.81.50:8003/play/a03g
+#EXTINF:-1 tvg-id="T 7" tvg-name="T7" tvg-logo="http://www.albepg.com/tvlogi/T%207.png" group-title="SHQIPTARE",T7 HD
+http://185.186.81.50:8003/play/a0ac
+#EXTINF:-1 tvg-id="Dukagjini" tvg-name="Dukagjini" tvg-logo="http://www.albepg.com/tvlogi/TV%20Dukagjini.png" group-title="SHQIPTARE",DUKAGJINI TV HD
+http://84.22.33.254/unicast.dukagjinihd/index.m3u8
+#EXTINF:-1 tvg-id="FIRST CHANNEL" tvg-name="FIRST CAHNNEL" tvg-logo="http://www.albepg.com/tvlogi/first%20CHANNEL.png" group-title="SHQIPTARE",FIRST CHANNEL
+http://84.22.33.254/unicast.firstchannel/mpegts
+#EXTINF:-1 tvg-id="Vizion Plus" tvg-name="Vizion Plus HD" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png" group-title="SHQIPTARE",VIZION PLUS HD
+http://84.22.33.254/unicast.vizionplus/index.m3u8
+#EXTINF:-1 tvg-id="Klan TV" tvg-name="Klan HD" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV%20HD.png" group-title="SHQIPTARE",KLAN  HD
+http://84.22.33.214/TVKlan/mpegts
+#EXTINF:-1 tvg-id="Klan Plus" tvg-name="Klan Plus" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png" group-title="SHQIPTARE",KLAN PLUS HD
+http://84.22.33.214/TVKlanPlus/mpegts
+#EXTINF:-1 tvg-ID="RTV 21 MK" tvg-name="RTV 21 MAQEDONIA" tvg-logo="http://www.albepg.com/tvlogi/RTV%2021%20MK.png" group-title="SHQIPTARE",RTV 21 MAQEDONIA
+http://185.186.81.50:8003/play/a018
+#EXTINF:-1 tvg-id="Tring Action" tvg-name="Tring Action" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png" group-title="KINEMA",Tring Action HD
+http://185.186.81.50:8003/play/a04p
+#EXTINF:-1 tvg-id="3 Plus" tvg-name="3 Plus" tvg-logo="http://www.albepg.com/tvlogi/3%20Plus.png" group-title="KINEMA",Tring 3 Plus
+http://84.22.33.254/unicast.3plus/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tring Comedy" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Comedy.png" group-title="KINEMA",Tring Comedy
+http://84.22.33.254/unicast.tringcomedy/index.m3u8
+#EXTINF:-1 tvg-id="Tring Fantasy" tvg-name="Tring Fantasy" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Fantasy.png" group-title="KINEMA",Tring Fantasy
+http://84.22.33.254/unicast.tringfantasy/index.m3u8
+#EXTINF:-1 tvg-id="Jolly HD" tvg-name="Jolly HD" tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png" group-title="KINEMA",Tring Jolly HD
+http://84.22.33.254/unicast.jollyhd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tring Life" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Life.png" group-title="KINEMA",Tring Life
+http://84.22.33.254/unicast.tringlife/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smile" tvg-logo="http://www.albepg.com/tvlogi/Smile.png" group-title="KINEMA",Tring Smile
+http://185.186.81.50:8003/play/a0cu
+#EXTINF:-1 tvg-id="" tvg-name="Tring Shqip" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Shqip.png" group-title="KINEMA",Tring Shqip
+http://84.22.33.254/unicast.tringshqip/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tring Super" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png" group-title="KINEMA",Tring Super HD
+http://84.22.33.254/unicast.tringsuper/index.m3u8
+#EXTINF:-1 tvg-id="RTSH1" tvg-name="RTSHSPORT" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Shqip.png" group-title="KINEMA",RTSH SHQIP HD
+http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tring History" tvg-logo="http://www.albepg.com/tvlogi/Tring%20History.png" group-title="ARGÃ‹TIM",Tring History
+http://84.22.33.254/unicast.tringhistory/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tring Planet" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Planet.png" group-title="ARGÃ‹TIM",Tring Planet
+http://84.22.33.254/unicast.tringplanet/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tring World" tvg-logo="http://www.albepg.com/tvlogi/Tring%20World.png" group-title="ARGÃ‹TIM",Tring World
+http://84.22.33.254/unicast.tringworld/index.m3u8
+#EXTINF:-1 tvg-id="Living HD" tvg-name="24Kitchen" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="ARGÃ‹TIM",Tring Living HD
+http://84.22.33.254/unicast.tringlivinghd/index.m3u8
+#EXTINF:0,Rtv1 http://79.106.102.68/hls/rtvnje.m3u8 
+#EXTINF:0,RROKUM 
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8 
+#EXTINF:0,RTVZiK
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8
+#EXTINF:0,News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8 
+#EXTINF:0,REPORT TV
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8 
+#EXTINF:0,TV Opoja
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8 
+#EXTINF:0,Euro AL
+http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
+#EXTINF:0,TV Dielli
+http://51.15.180.159:8081/play/hls/dielli/index.m3u8 
+#EXTINF:0,Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:0,RTV Pendimi
+http://rtvpendimi.com:8081/hls/RTVPendimi.m3u8
+#EXTINF:0,Istogu Channel HD
+http://artiiptv.dyndns.tv:8090/ISTOGUCHANNEL/tracks-v1a1/mono.m3u8
+#EXTINF:0,Zjarr HD
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
+#EXTINF:0,TV 7 Albania
+http://media.az-mediaserver.com:1935/7064/7064/chunklist.m3u8
+#EXTINF:0,TV Boin
+http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/VZvOidh.png",al: ILIRIDA
+http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
+
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/IN5rJ2J.png",RTSH Plus
+http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
+
+#EXTINF:0 tvg-language="tr" tvg-name="TRT 1 HD" group-title="IPTV GLOB 1",tr TRT 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+
+#EXTINF:0 tvg-language="tr" tvg-name="TRT COCUK" group-title="IPTV GLOB 1",tr ÇOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+
+#EXTINF:0 tvg-language="tr" tvg-name="TRT HABER HD" group-title="IPTV GLOB 1",tr HABER
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+
+
+#EXTINF:0 tvg-language="tr" tvg-name="TRT AVAZ" group-title="IPTV GLOB 1",tr AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+
+#EXTINF:0 tvg-language="tr" tvg-name="TRT TURK" group-title="IPTV GLOB 1",tr TÜRK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+
+#EXTINF:0 tvg-language="tr" tvg-name="TR TLC" group-title="IPTV GLOB 1",tr TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+
+#EXTINF:0 tvg-language="tr" tvg-name="TR Star" group-title="IPTV GLOB 1",tr STAR TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-language="tr" tvg-name="TR Star" group-title="IPTV GLOB 1",tr STAR TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-language="tr" tvg-name="TR 360tv" group-title="IPTV GLOB 1",tr 360TV
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
+
+#EXTINF:0 tvg-language="tr" tvg-name="TR NTV" group-title="IPTV GLOB 1",tr NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-language="tr" tvg-name="TR KANAL 24" group-title="IPTV GLOB 1",tr KANAL 24
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+
+#EXTINF:0 tvg-language="tr" tvg-name="TR BURSA AS TV" group-title="IPTV GLOB 1",tr BURSA AS TV
+http://yayin3.canlitv.com:1935/canlitv/astv/iptvdelisi.m3u8
+
+#EXTINF:0 tvg-language="tr" tvg-name="TR DMAX" group-title="IPTV GLOB 1",tr DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
+
+#EXTINF:0 tvg-language="tr" tvg-name="TR UçanKuş" group-title="IPTV GLOB 1",tr UçanKuş
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+
+#EXTINF:0 tvg-language="tr" tvg-name="TR Kral PoP" group-title="IPTV GLOB 1",tr Kral PoP
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+
+#EXTINF:0 tvg-language="tr" tvg-name="TR Kral TV" group-title="IPTV GLOB 1",tr Kral TV
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+
+
+#EXTINF:0 tvg-id=”deutsche-welle.de”group-title="IPTV GLOB 2", ** GERMAN TV **
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+
+#EXTINF:0 tvg-id=”RTL”group-title="IPTV GLOB 2",de RTL
+http://91.106.172.138:9981/stream/channelid/1053454529
+
+#EXTINF:0 tvg-id=”Kika.de”group-title="IPTV GLOB 2",de KiKA
+https://kika-lh.akamaihd.net/i/livetvkika_ww@72295/index_1992_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:0 tvg-id=”Wdr.de”group-title="IPTV GLOB 2",de WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8
+
+#EXTINF:0 tvg-id=”KroneHit.at”group-title="IPTV GLOB 2",de KRONEHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+
+#EXTINF:0 tvg-id=”HR.de”group-title="IPTV GLOB 2",de Hr
+https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_1800_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-id=”Pearl.tv”group-title="IPTV GLOB 2",de Pearl
+http://enstyle-live.hls.adaptive.level3.net/ses/enstyle/stream3/streamPlaylist.m3u8
+
+#EXTINF:0 tvg-id=”RiC.de”group-title="IPTV GLOB 2",de RiC
+https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/chunklist.m3u8
+
+#EXTINF:0 tvg-id=”isar-tv.com”group-title="IPTV GLOB 2",de ISAR
+http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/master.m3u8
+
+#EXTINF:0 tvg-id=”Tagesschau.de”group-title="IPTV GLOB 2",de Tagesschau
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-id=”TeleZiri.ch”group-title="IPTV GLOB 2",ch Tele Züri
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/0_josiatxf/format/applehttp/protocol/https/a.m3u8
+
+#EXTINF:0 tvg-id=”TeleM1.ch”group-title="IPTV GLOB 2",ch Tele M1
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+
+#EXTINF:0 tvg-id=”TeleBärn.ch”group-title="IPTV GLOB 2",ch Tele Bärn
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",** ENGLISH TV **
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",uk BLOOMBERG
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",au Bloomberg
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",au Expo Channel
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",ca TSC
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",ca The Weather
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",uk Bloomberg EU
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",uk Bloomberg EU Event
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",uk CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",uk CGTN Documentary
+http://live.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",uk Gems TV
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",uk Ideal World
+https://live-isd.simplestreamcdn.com/idealworld/live.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",uk Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",uk Sunburn TV
+https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",uk TG 4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us 3 News
+http://mediaworks-i.akamaihd.net:80/hls/live/220435/3812193411001/3news_live/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us ABC 13 Action News
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us ABC News Digital 4
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us ABC News Digital 7
+https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us ABC News Digital 8
+https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us Action News Now (KNVN)
+https://api.new.livestream.com/accounts/26511688/events/7954874/live.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us ACTV
+http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us Beach TV
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us Bloomberg US
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us Bloomberg US Event
+https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us Boston University TV
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us CBN
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us Cerritos TV3
+http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us CGTN Documentaries
+https://livedoc.cgtn.com/200d/prog_index.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us CGTV
+http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us CSPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us CSPAN 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us CSPAN 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us Fox 31
+http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us Movee 4U
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",us NBC 11 News Bay Area
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 5", ** ITALIC TV **
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 5",it RAI Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 5",it DMAX IT
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 5",it Antenna Tre Nordest
+http://wms.shared.streamshow.it/antennatre/antennatre/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 5",it Alto Adige TV
+http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 5",it Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 5",it Canale 8
+http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 5",it Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 5",it Carina TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 5",it éTV Marche
+http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 5",it Fano TV
+http://live.sloode.com:1935/fanotv_live/43DA-3923-9C72-4E9F/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 5",it FM Italia
+http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 5",it History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 5",it Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 5",it Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 6", ** NORDIC TV **
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 6",se Expressen TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 6",se Himlen TV 7
+http://vod.tv7.fi:1935/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 6",se Kanal 10
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 6",dk DENMARK TV
+https://streaming.media.digicast.dk/clients_live/tv3/tv3_live/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 6",no NO TV
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 6",no Kanal 10
+http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 6",no MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 6",no TV Haugaland
+https://900c544ac47302fffd7d3f12b4c745fd-httpcache0-90216-cachelive0.dna.qbrick.com/90216-cachelive0/smil:APPLETV/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 6",no TV Visjon Norge
+https://cdn-flash.crossnet.net/visjonnorgelive/ngrp:tvvn_all/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 8",hu StreamSport
+https://cloudfront44.lexanetwork.com:1344/xlive001/livestream002.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HRT 1" group-title="IPTV GLOB 9", ** SLAVIC TV **
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",hr Slavonska TV
+http://89.201.163.244:8080/hls/hdmi.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",hr Puls
+http://stream.rtvpuls.com/broadcasting
+
+#EXTINF:0 group-title="IPTV GLOB 9",hr Studio B
+http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",hr Televizija 5
+http://37.59.21.217:8809/live/tv5web.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",sk Joj
+https://nn.geo.joj.sk/live/joj-index.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",sk Joj Family
+https://nn.geo.joj.sk/live/hls/family-540.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",sk Joj Plus
+https://nn.geo.joj.sk/live/jojplus-index.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",sk Nove Zamky TV
+http://s1.media-planet.sk/live/novezamky/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",sk TV Hram
+http://178.253.194.75:1935/live/hram.stream/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",sk TV Lux
+http://live.tvlux.sk:1935/lux/lux.stream_360p/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",sk TV Nitricka
+http://213.81.153.221:8080/nitricka
+
+#EXTINF:0 group-title="IPTV GLOB 9",sk TV Nove Zamky
+http://s1.media-planet.sk/live/novezamky/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",sk TVR
+http://lb.streaming.sk/tvruzinov/stream/chunklist_w899090305.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",sk WAU
+https://nn.geo.joj.sk/hls/wau-540.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",ck Elektrika
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",ck Fashion TV (Czech&Slovak)
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",ck Nova TV
+http://nova-live.ssl.cdn.cra.cz/channels/mcra/playlist/cze/live_hq.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",ck Nova Action TV
+http://nova-live.ssl.cdn.cra.cz/channels/mcrf/playlist/cze/live_hq.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",ck Nova Gold TV
+http://nova-live.ssl.cdn.cra.cz/channels/mcrh/playlist/cze/live_hq.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",ck Óčko
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",ck Óčko Expres
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",ck Óčko Star
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/master.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",ck Retro
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",ck Senzi
+http://109.74.144.130/live/senzitest/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",ck ŠLAGR TV
+https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",ck tv morava  (vlc)
+http://stream.redigy.cz:1934/tvm.flv
+
+#EXTINF:0 group-title="IPTV GLOB 9",pl dla ciebie tv
+http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",pl Lech TV
+https://ec05.waw2.cache.orange.pl/jupiter/o1-cl3/live/wtk-b-lechtv/live.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",pl Mango TV
+http://stream.mango.pl:1935/mango/_definst_/live/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",pl Republika
+http://m1-tvrepublika.4vod.tv/smil:premium_abr.ism/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",pl TV Kujawy
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",pl TV Wielkopolska
+http://stream4.nadaje.com:15308/live/stream-1/chunklist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",pl TVP Info
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
+
+#EXTINF:0 group-title="IPTV GLOB 9",pl TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",bg Shukerov
+http://100automoto.tv:1935/100gaz/shukerov/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",bg Channel Mercedes
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",bg Alfa TV
+http://alfa.bg:1935/live/live/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 9",bg MU-Vi TV
+http://edge15.cdn.bg:2013/fls/livetv.stream/playlist.m3u8
+
+
